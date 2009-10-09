@@ -2,4 +2,4 @@
 (menu-bar-mode 1)
 
 (clojure-slime-config)
-(require 'quack)
+;(require 'quack)
